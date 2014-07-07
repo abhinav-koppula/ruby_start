@@ -1,4 +1,2 @@
-line
-====
-
-My first ruby project
+Line_day3
+=========
